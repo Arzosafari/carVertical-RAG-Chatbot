@@ -50,7 +50,11 @@ Download and install LM Studio
 
 Load your preferred model (e.g., Gemma)
 
+and insted of lm studio you can use other llms by api .
+
 Start the server on port 1234
+
+for embedding i have been using a local model called all-MiniLM-L6-v2 that you can download it from hugging face and use it locally on your machine
 
 Launch the chatbot:
 
